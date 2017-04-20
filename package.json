@@ -1,0 +1,30 @@
+{
+  "name": "osr-demo",
+  "version": "0.0.1",
+  "description": "OSR Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentjames501/osr-demo.git"
+  },
+  "keywords": [
+    "osr",
+    "demo"
+  ],
+  "author": "Vincent Pizzo <vincent.pizzo@singlewire.com> (https://singlewire.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vincentjames501/osr-demo/issues"
+  },
+  "homepage": "https://github.com/vincentjames501/osr-demo#readme",
+  "dependencies": {
+    "csv": "^1.1.1",
+    "lodash": "^4.17.4",
+    "progress": "^2.0.0",
+    "tesseract.js": "^1.0.10",
+    "yargs": "^7.1.0"
+  }
+}
